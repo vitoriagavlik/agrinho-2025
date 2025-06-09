@@ -12,7 +12,7 @@ Este projeto implementa uma **árvore fractal animada** usando a biblioteca [p5.
 
 ## ✨Créditos
 
-Este projeto foi criado por **Maria vitoria Gavlik, colégio civíco militar da vila jonh kennedy**.  
+Este projeto foi criado por **Maria Vitoria Gavlik, colégio civíco militar da vila jonh kennedy**.  
 
 ### 📜 Créditos:
 - Desenvolvido com **inteligencia artificial** e **p5.js**.
